@@ -3,7 +3,7 @@
 
 ## Entre neste link https://www.programiz.com/sql/online-compiler/
 
-## Crie uma query SQL para fazer contar quantos itens diferentes cada cliente comprou e mostrando o seu nome no resultado.
+## Crie uma query SQL para fazer contar quantos itens diferentes cada cliente comprou e mostrando o seu nome no resultado. Filtre também por somente os clientes que possuem pelo menos dois itens iguais.
 
 ## Pode fazer como quiser e como se sentir mais confortável.
 
